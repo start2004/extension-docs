@@ -1,6 +1,7 @@
 ## Privacy Policy
 
 **Extension Name:** Countdown Timer
+
 **Last Updated:** 2026-11-03
 
 ### 1. Data We Collect
@@ -45,6 +46,7 @@ If you have questions about this policy, please contact us via the support email
 ## 隐私政策
 
 **插件名称：** Countdown Timer（倒计时）
+
 **更新日期：** 2026-11-03
 
 ### 1. 我们收集的数据
